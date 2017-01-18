@@ -333,7 +333,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading {
   font-size: 18px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */  /* not my taste */
   letter-spacing: 0.1em;
 }
 .sidebar-heading a {
